@@ -1,6 +1,6 @@
 # Excel-Data-Dashboard-Bike-Sales
 
-Utlized pre-existing Excel Data Set on Bike Sales. Cleaned Data and added Age Range Column to Data Types. 
+Utilized pre-existing Excel Data Set on Bike Sales. Cleaned Data and added Age Range Column to Data Types. 
 
 ![BikeDS](https://user-images.githubusercontent.com/86543368/208324416-5f8cd0ce-5137-43bf-a90d-e8e25a5069b3.png)
 
